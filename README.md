@@ -1,2 +1,4 @@
-# GWFormular
-Formel für gigrawars.de
+#Speicher
+```
+Sicher = Speicherstufe^2*18000/30+3000
+```
